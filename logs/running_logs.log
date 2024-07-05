@@ -1,1 +1,81 @@
 [2024-07-05 08:47:22,048: INFO: main: Welcome to our custom login]
+[2024-07-05 09:29:57,947: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-05 09:29:57,961: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 09:31:16,076: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-05 09:31:16,084: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 09:31:27,692: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-05 09:31:27,695: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 09:49:46,397: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-05 09:49:46,399: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 09:50:07,525: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-05 09:50:07,528: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 09:50:38,134: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-05 09:50:38,138: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 09:52:29,129: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-05 09:52:29,135: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 09:52:29,137: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 09:52:29,148: INFO: common: created directory at: artifacts]
+[2024-07-05 09:52:29,149: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-05 09:52:31,018: INFO: 2280763589: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 3EDE:5B71A:603B8:89408:66877505
+Accept-Ranges: bytes
+Date: Fri, 05 Jul 2024 04:22:29 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10222-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1720153349.418541,VS0,VE295
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 85dcf8e95f9f88819f02b57307403d8ac39e1475
+Expires: Fri, 05 Jul 2024 04:27:29 GMT
+Source-Age: 0
+
+]
+[2024-07-05 10:13:31,213: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-05 10:13:31,215: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-05 10:13:31,216: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 10:13:31,216: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 10:13:31,217: INFO: common: created directory at: artifacts]
+[2024-07-05 10:13:31,217: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-05 10:13:33,030: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 3EDE:5B71A:603B8:89408:66877505
+Accept-Ranges: bytes
+Date: Fri, 05 Jul 2024 04:43:31 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10231-MAA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1720154611.367273,VS0,VE281
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 2fc4d0df97e2c4df8cc681c6a398876d620e9ae3
+Expires: Fri, 05 Jul 2024 04:48:31 GMT
+Source-Age: 0
+
+]
+[2024-07-05 10:13:33,056: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
