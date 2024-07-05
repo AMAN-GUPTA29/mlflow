@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/python10/mlflow/mlruns/0/3662b8bb5c3940d784a4496eb863a95c/artifacts
+end_time: 1720160072360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3662b8bb5c3940d784a4496eb863a95c
+run_name: stylish-shad-624
+run_uuid: 3662b8bb5c3940d784a4496eb863a95c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720160066556
+status: 3
+tags: []
+user_id: AmanGupta

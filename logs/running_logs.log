@@ -391,3 +391,134 @@ x==========x]
 [2024-07-05 11:32:02,908: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
 
 x==========x]
+[2024-07-05 11:41:18,056: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.204.100:8080]
+[2024-07-05 11:41:18,058: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-05 11:41:41,506: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:41:41] "GET / HTTP/1.1" 200 -]
+[2024-07-05 11:41:41,665: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:41:41] "GET /static/css/styles.css HTTP/1.1" 200 -]
+[2024-07-05 11:41:41,680: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:41:41] "GET /static/css2/style.css HTTP/1.1" 200 -]
+[2024-07-05 11:41:41,682: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:41:41] "GET /static/css2/nunito-font.css HTTP/1.1" 200 -]
+[2024-07-05 11:41:41,707: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:41:41] "GET /static/js/scripts.js HTTP/1.1" 200 -]
+[2024-07-05 11:41:43,087: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:41:43] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2024-07-05 11:41:43,098: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:41:43] "GET /static/assets/img/form-v9.jpg HTTP/1.1" 200 -]
+[2024-07-05 11:41:43,140: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:41:43] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2024-07-05 11:41:43,165: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:41:43] "GET /static/assets/favicon.ico HTTP/1.1" 200 -]
+[2024-07-05 11:41:43,373: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:41:43] "[36mGET /static/assets/favicon.ico HTTP/1.1[0m" 304 -]
+[2024-07-05 11:42:21,593: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:42:21] "GET / HTTP/1.1" 200 -]
+[2024-07-05 11:42:21,623: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:42:21] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2024-07-05 11:42:21,630: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:42:21] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -]
+[2024-07-05 11:42:21,630: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:42:21] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -]
+[2024-07-05 11:42:21,631: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:42:21] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-07-05 11:42:21,712: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:42:21] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2024-07-05 11:42:21,715: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:42:21] "[36mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 304 -]
+[2024-07-05 11:42:21,719: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:42:21] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2024-07-05 11:42:21,721: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:42:21] "[36mGET /static/assets/favicon.ico HTTP/1.1[0m" 304 -]
+[2024-07-05 11:42:51,819: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:42:51] "GET / HTTP/1.1" 200 -]
+[2024-07-05 11:42:51,842: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:42:51] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2024-07-05 11:42:51,846: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:42:51] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -]
+[2024-07-05 11:42:51,848: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:42:51] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -]
+[2024-07-05 11:42:51,850: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:42:51] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-07-05 11:42:51,919: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:42:51] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2024-07-05 11:42:51,920: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:42:51] "[36mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 304 -]
+[2024-07-05 11:42:51,929: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:42:51] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2024-07-05 11:42:51,933: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:42:51] "[36mGET /static/assets/favicon.ico HTTP/1.1[0m" 304 -]
+[2024-07-05 11:42:51,966: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:42:51] "[36mGET /static/assets/favicon.ico HTTP/1.1[0m" 304 -]
+[2024-07-05 11:42:58,667: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.204.100:8080]
+[2024-07-05 11:42:58,672: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-05 11:43:02,317: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:43:02] "GET / HTTP/1.1" 200 -]
+[2024-07-05 11:43:02,490: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:43:02] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -]
+[2024-07-05 11:43:02,494: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:43:02] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2024-07-05 11:43:02,498: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:43:02] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -]
+[2024-07-05 11:43:02,499: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:43:02] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-07-05 11:43:02,589: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:43:02] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2024-07-05 11:43:02,590: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:43:02] "[36mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 304 -]
+[2024-07-05 11:43:02,624: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:43:02] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2024-07-05 11:43:02,647: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:43:02] "[36mGET /static/assets/favicon.ico HTTP/1.1[0m" 304 -]
+[2024-07-05 11:44:24,544: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-05 11:44:24,547: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-05 11:44:24,549: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 11:44:24,551: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 11:44:24,553: INFO: common: created directory at: artifacts]
+[2024-07-05 11:44:24,553: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-05 11:44:26,028: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 3EDE:5B71A:603B8:89408:66877505
+Accept-Ranges: bytes
+Date: Fri, 05 Jul 2024 06:14:24 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10249-MAA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1720160064.396064,VS0,VE331
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 3afae81c87ac1cb950b6e9c4fe63923528ef4013
+Expires: Fri, 05 Jul 2024 06:19:24 GMT
+Source-Age: 0
+
+]
+[2024-07-05 11:44:26,047: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-05 11:44:26,048: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-07-05 11:44:26,053: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-05 11:44:26,055: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 11:44:26,058: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 11:44:26,059: INFO: common: created directory at: artifacts]
+[2024-07-05 11:44:26,059: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-05 11:44:26,080: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-07-05 11:44:26,081: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-07-05 11:44:26,087: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-05 11:44:26,089: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 11:44:26,092: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 11:44:26,093: INFO: common: created directory at: artifacts]
+[2024-07-05 11:44:26,093: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-05 11:44:26,122: INFO: data_transformation: Splited data into training and test sets]
+[2024-07-05 11:44:26,122: INFO: data_transformation: (1199, 12)]
+[2024-07-05 11:44:26,123: INFO: data_transformation: (400, 12)]
+[2024-07-05 11:44:26,123: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-07-05 11:44:26,124: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-07-05 11:44:26,128: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-05 11:44:26,130: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 11:44:26,133: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 11:44:26,135: INFO: common: created directory at: artifacts]
+[2024-07-05 11:44:26,135: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-05 11:44:26,173: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-07-05 11:44:26,173: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-07-05 11:44:26,177: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-05 11:44:26,179: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 11:44:26,182: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 11:44:26,183: INFO: common: created directory at: artifacts]
+[2024-07-05 11:44:26,183: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-05 11:44:26,606: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2024-07-05 11:44:32,363: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-05 11:44:32,901: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:44:32] "GET /train HTTP/1.1" 200 -]
+[2024-07-05 11:44:33,066: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:44:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2024-07-05 11:48:21,125: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:48:21] "POST /predict HTTP/1.1" 200 -]
+[2024-07-05 11:48:21,169: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:48:21] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2024-07-05 11:48:21,170: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:48:21] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-07-05 11:48:21,295: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:48:21] "[33mGET /static/assets/img/wine.gif HTTP/1.1[0m" 404 -]
+[2024-07-05 11:48:21,300: INFO: _internal: 192.168.204.100 - - [05/Jul/2024 11:48:21] "[36mGET /static/assets/favicon.ico HTTP/1.1[0m" 304 -]
