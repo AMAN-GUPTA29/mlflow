@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/python10/mlflow/mlruns/0/102304a584e34f76b102b4ed4be5feef/artifacts
+end_time: 1720159322905
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 102304a584e34f76b102b4ed4be5feef
+run_name: masked-goose-691
+run_uuid: 102304a584e34f76b102b4ed4be5feef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720159317087
+status: 3
+tags: []
+user_id: AmanGupta
